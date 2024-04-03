@@ -32,7 +32,7 @@ Welcome to my GitHub!
 
 
 ### Github Stats
-![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/Jhonatasantosdev?style=for-the-badge) ![stars](https://img.shields.io/github/stars/Jhonatasantosdev?style=for-the-badge) 
+![follows](https://img.shields.io/github/followers/Jhonatasantosdev?style=for-the-badge) ![stars](https://img.shields.io/github/stars/Jhonatasantosdev?style=for-the-badge) 
  
  ![stats](https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev&show_icons=true&theme=light)
  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatasantosdev&layout=compact&theme=light)
