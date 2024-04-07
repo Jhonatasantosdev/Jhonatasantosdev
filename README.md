@@ -1,7 +1,7 @@
 ## Hi, Devs! 👋
 
 ### Hi, I'm Jhonata dos Santos 📈🖥️📉
-<a href="https://github.com/anuraghazra/github-readme-stats [react][react]">
+<a href="https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react) ">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
