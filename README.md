@@ -1,6 +1,8 @@
 ## Hi, Devs! 👋
 
 ### Hi, I'm Jhonata dos Santos 📈🖥️📉
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasantosdev&show_icons=true&theme=transparent)
+
 
 Welcome to my GitHub!
 
@@ -30,13 +32,6 @@ Welcome to my GitHub!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [![html](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![css](https://img.shields.io/badge/-CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-### Github Stats
-![follows](https://img.shields.io/github/followers/Jhonatasantosdev?style=for-the-badge) ![stars](https://img.shields.io/github/stars/Jhonatasantosdev?style=for-the-badge) 
- 
- ![stats](https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev&show_icons=true&theme=light)
- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatasantosdev&layout=compact&theme=light)
- 
 ---
 
 ### 🔥 How to reach me
