@@ -1,7 +1,9 @@
 ## Hi, Devs! 👋
 
 ### Hi, I'm Jhonata dos Santos 📈🖥️📉
-[![Stats A](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react)
+
+
+
 
 Welcome to my GitHub!
 
