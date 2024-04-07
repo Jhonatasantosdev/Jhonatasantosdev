@@ -5,7 +5,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev](https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhonatasantosdev&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://camo.githubusercontent.com/a665e0a2c7a6c05a7343e180b9c1905e805f115c170db49730ce87d5fa2f9d71/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d7265616374" />
 </a>
 
 Welcome to my GitHub!
