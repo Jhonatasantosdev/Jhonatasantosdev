@@ -2,7 +2,7 @@
 
 ### Hi, I'm Jhonata dos Santos 📈🖥️📉
 <a href="https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react) ">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev](https://github-readme-stats.vercel.app/api?username=Jhonatasantosdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhonatasantosdev&layout=compact&langs_count=8&card_width=320" />
